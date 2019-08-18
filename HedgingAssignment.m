@@ -1,15 +1,5 @@
 % Program:  LTCM Delta Hedging
-% Group:    Team Ganda
-% Authors:
-%           Yazeed Amr - 260614843 
-%           Tawfiq Najjar - 260602165 
-%           Sammy Jondi - 260609791
-%           
-% Last Modified: 2017-11
-%
-% Course: Applied Quantitative Finance
-%
-% Project: LTCM Delta Hedging Assingment
+% Author: Yazeed Amr
 %
 % Purpose of the program: To track the profit and loss of both sides of a
 % call option transaction over a set time defined by the user of the code, 
